@@ -61,11 +61,11 @@ We can try accounting for trust in the process of interacting with computer syst
   - [An Empirical Investigation into Programming Language Syntax](https://dl.acm.org/citation.cfm?id=2534973)  
     — Andreas Stefik, and Susanna Siebert (2013)
 
-  - [Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control](http://www.erights.org/talks/thesis/markm-thesis.pdf)
+  - [Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control](http://www.erights.org/talks/thesis/markm-thesis.pdf)  
     — Mark Samuel Miller (2006)
 
   - [Programming as an Experience: The Inspiration for Self](http://bibliography.selflanguage.org/programming-as-experience.html)
-    — Randall B. Smith, and David Ungar (1995)
+    — Randall B. Smith, and David Ungar (1995)  
 
-  - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+  - [The Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)  
     — Alan C. Kay (1993)
